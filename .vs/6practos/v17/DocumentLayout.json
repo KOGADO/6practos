@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kogado\\source\\repos\\6practos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70CCA058-6016-4619-B5C2-4AA4BC571B54}|6practos\\6practos.vcxproj|C:\\Users\\kogado\\source\\repos\\6practos\\6practos\\6practos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70CCA058-6016-4619-B5C2-4AA4BC571B54}|6practos\\6practos.vcxproj|solutionrelative:6practos\\6practos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 442,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6practos.cpp",
+              "DocumentMoniker": "C:\\Users\\kogado\\source\\repos\\6practos\\6practos\\6practos.cpp",
+              "RelativeDocumentMoniker": "6practos\\6practos.cpp",
+              "ToolTip": "C:\\Users\\kogado\\source\\repos\\6practos\\6practos\\6practos.cpp",
+              "RelativeToolTip": "6practos\\6practos.cpp",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAqwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T18:11:32.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
